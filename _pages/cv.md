@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Psychology, University of Bologna, 2018
+* Research Master in Cognitive Neuroscience, 2020
+* Ph.D in Psycolinguistics and Cognitive Neuroscience, Max Planck Institute for Psycholinguistics, 2025 (expected)
 
 Work experience
 ======
