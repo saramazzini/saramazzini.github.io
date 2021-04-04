@@ -61,4 +61,5 @@ Supervision
 
 Courses 
 ======
+April 2021: Donders Advances MEEG/EEG Toolkit, Donders Institute for Brain, Cognition and Behavior
 September 2020: Cognitive and Affective Neurophysiology Summer School: Acquisition, Processing and Analysis of EEG Signal - Laboratory of Neuropsychophysiology University of Porto
