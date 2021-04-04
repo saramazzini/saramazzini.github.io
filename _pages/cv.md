@@ -11,49 +11,54 @@ redirect_from:
 
 Education
 ======
-* B.S. in Psychology, University of Bologna, 2018
-* Research Master in Cognitive Neuroscience, 2020
-* Ph.D in Psycolinguistics and Cognitive Neuroscience, Max Planck Institute for Psycholinguistics, 2025 (expected)
+* BA in Psychology, University of Bologna, 2018
+* Erasmus+ Exchange Program, Freie Universität Berlin, 2016-2017
+* Research Master in Cognitive Neuroscience, Maastricht University 2020
+* PhD in Psycolinguistics/Cognitive Neuroscience, Max Planck Institute for Psycholinguistics, 2025 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2017 - February 2018: Student Research Assistant
+  * Charité Universitätsmedizin Berlin
+  * Tasks: subjects recruitment and screening, data acquisition (Polysomnography and Pupillographic Sleepiness Test), evaluation of sleep questionnaires (PHQ, PSQI, MEQ, ASF, ESS)
+  * Supervisors: Prof. Dr. Danker-Hopfe, Dr. Torsten Eggert
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* April 2020 - January 2021: Research Assistant
+  * Maastricht University 
+  * Tasks: combined EEG-tACS data acquisition, neuropsychological tests
+  * Supervisor: Prof. Dr. Bernadette Jansma
+ 
+Strengths 
+======
+* Team-work abilities
+* Ability to work under pressure
+* Problem solving expertise
+* Excellent organizational skills
+* Very high motivation 
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Academic Skills
+  * Communication and Presentation
+  * English Scientific Writing 
+* Computer Skills
+  * IBM SPSS Statistics
+  * MATLAB
+  * R
+  * EEGLAB toolbox
+* Languages 
+  * Italian, native 
+  * English, highly proficient
+  * German, proficient
+  * Spanish, proficient
+  * Dutch, elementary  
 
-Publications
+Supervision
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+Supervision of 1 intern (Linguistics)
+Supervision of 2 Bachelor Students (Psychology & Medicine)
+Supervision of 2 Master Students (Medicine & Neuroscience)
+
+Courses 
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+September 2020: Cognitive and Affective Neurophysiology Summer School: Acquisition, Processing and Analysis of EEG Signal - Laboratory of Neuropsychophysiology University of Porto
