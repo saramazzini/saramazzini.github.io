@@ -55,9 +55,9 @@ Skills
 
 Supervision
 ======
-Supervision of 1 intern (Linguistics)
-Supervision of 2 Bachelor Students (Psychology & Medicine)
-Supervision of 2 Master Students (Medicine & Neuroscience)
+* Supervision of 1 intern (Linguistics)
+* Supervision of 2 Bachelor Students (Psychology & Medicine)
+* Supervision of 2 Master Students (Medicine & Neuroscience)
 
 Courses 
 ======
