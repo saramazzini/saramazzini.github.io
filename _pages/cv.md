@@ -10,21 +10,20 @@ redirect_from:
 {% include base_path %}
 
 ## *Education*
-
 <font size="3">
-* BA in Psychology, University of Bologna, 2018
-* Erasmus+ Exchange Program, Freie Universität Berlin, 2016-2017
-* Research Master in Cognitive Neuroscience, Maastricht University 2020
-* PhD in Psycolinguistics/Cognitive Neuroscience, Max Planck Institute for Psycholinguistics, 2025 (expected)</font>
+  * BA in Psychology, University of Bologna, 2018
+  * Erasmus+ Exchange Program, Freie Universität Berlin, 2016-2017
+  * Research Master in Cognitive Neuroscience, Maastricht University 2020
+  * PhD in Psycolinguistics/Cognitive Neuroscience, Max Planck Institute for Psycholinguistics, 2025 (expected)</font>
 
 ## *Work experience*
 <font size="3">
- * May 2017 - February 2018: Student Research Assistant
+  * May 2017 - February 2018: Student Research Assistant
   + Charité Universitätsmedizin Berlin
   + Tasks: subjects recruitment and screening, data acquisition (Polysomnography and Pupillographic Sleepiness Test), evaluation of sleep questionnaires (PHQ, PSQI, MEQ, ASF, ESS)
   + Supervisors: Prof. Dr. Danker-Hopfe, Dr. Torsten Eggert 
 
-* April 2020 - January 2021: Research Assistant
+  * April 2020 - January 2021: Research Assistant
   + Maastricht University 
   + Tasks: combined EEG-tACS data acquisition, neuropsychological tests
   + Supervisor: Prof. Dr. Bernadette Jansma </font>
