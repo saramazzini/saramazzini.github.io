@@ -19,14 +19,14 @@ redirect_from:
 ## *Work experience*
 <font size="3">
  * May 2017 - February 2018: Student Research Assistant
-  * Charité Universitätsmedizin Berlin
-  * Tasks: subjects recruitment and screening, data acquisition (Polysomnography and Pupillographic Sleepiness Test), evaluation of sleep questionnaires (PHQ, PSQI, MEQ, ASF, ESS)
-  * Supervisors: Prof. Dr. Danker-Hopfe, Dr. Torsten Eggert 
+  + Charité Universitätsmedizin Berlin
+  + Tasks: subjects recruitment and screening, data acquisition (Polysomnography and Pupillographic Sleepiness Test), evaluation of sleep questionnaires (PHQ, PSQI, MEQ, ASF, ESS)
+  + Supervisors: Prof. Dr. Danker-Hopfe, Dr. Torsten Eggert 
 
 * April 2020 - January 2021: Research Assistant
-  * Maastricht University 
-  * Tasks: combined EEG-tACS data acquisition, neuropsychological tests
-  * Supervisor: Prof. Dr. Bernadette Jansma </font>
+  + Maastricht University 
+  + Tasks: combined EEG-tACS data acquisition, neuropsychological tests
+  + Supervisor: Prof. Dr. Bernadette Jansma </font>
  
 ## *Strengths* 
 <font size="3">
@@ -39,19 +39,19 @@ redirect_from:
 ## *Skills*
 <font size="3">
 * Academic Skills
-  * Communication and Presentation
-  * English Scientific Writing 
+  + Communication and Presentation
+  + English Scientific Writing 
 * Computer Skills
-  * IBM SPSS Statistics
-  * MATLAB
-  * R
-  * EEGLAB toolbox
+  + IBM SPSS Statistics
+  + MATLAB
+  + R
+  + EEGLAB toolbox
 * Languages 
-  * Italian, native 
-  * English, highly proficient
-  * German, proficient
-  * Spanish, proficient
-  * Dutch, elementary   </font>
+  + Italian, native 
+  + English, highly proficient
+  + German, proficient
+  + Spanish, proficient
+  + Dutch, elementary   </font>
 
 ## *Supervision*
 <font size="3">
