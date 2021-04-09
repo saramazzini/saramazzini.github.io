@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : SaraMazzini4
 facebook:
   username               :
   app_id                 :
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sara Mazzini"
-  avatar           : "profilepicture.jpeg"
+  avatar           : "MPI_picture.jpg"
   bio              : "Phd Student @ Max Planck Institute for Psycholinguistics"
   location         : "Nijmegen, The Netherlands"
   employer         : 
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  OSF              : "https://osf.io/profile/"
+  OSF              : "osf.io/82pg5"
 
 
 # Reading Files
