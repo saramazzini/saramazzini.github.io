@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## *Education*
+
 <font size="3">
 * BA in Psychology, University of Bologna, 2018
 * Erasmus+ Exchange Program, Freie Universität Berlin, 2016-2017
