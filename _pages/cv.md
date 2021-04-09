@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-## *Education*
+## _Education_
 <font size="3">
   * BA in Psychology, University of Bologna, 2018
   * Erasmus+ Exchange Program, Freie Universität Berlin, 2016-2017
   * Research Master in Cognitive Neuroscience, Maastricht University 2020
   * PhD in Psycolinguistics/Cognitive Neuroscience, Max Planck Institute for Psycholinguistics, 2025 (expected)</font>
 
-## *Work experience*
+## _Work experience_
 <font size="3">
   * May 2017 - February 2018: Student Research Assistant
   + Charité Universitätsmedizin Berlin
