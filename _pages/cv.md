@@ -27,14 +27,6 @@ redirect_from:
   + Maastricht University 
   + Tasks: combined EEG-tACS data acquisition, neuropsychological tests
   + Supervisor: Prof. Dr. Bernadette Jansma </font>
- 
-## *Strengths* 
-<font size="3">
-* Team-work abilities
-* Ability to work under pressure
-* Problem solving expertise
-* Excellent organizational skills
-* Very high motivation  </font>
 
 ## *Skills*
 <font size="3">
