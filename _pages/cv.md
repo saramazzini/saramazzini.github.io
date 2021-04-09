@@ -18,7 +18,7 @@ redirect_from:
 
 ## *Work experience*
 <font size="3">
-  * May 2017 - February 2018: Student Research Assistant
+ * May 2017 - February 2018: Student Research Assistant
   * Charité Universitätsmedizin Berlin
   * Tasks: subjects recruitment and screening, data acquisition (Polysomnography and Pupillographic Sleepiness Test), evaluation of sleep questionnaires (PHQ, PSQI, MEQ, ASF, ESS)
   * Supervisors: Prof. Dr. Danker-Hopfe, Dr. Torsten Eggert 
