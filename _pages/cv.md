@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-### Education
+### <span style="color: #307D7E"> _Education_ </span>
 <font size="3">
   * BA in Psychology, University of Bologna, 2018
   * Erasmus+ Exchange Program, Freie Universität Berlin, 2016-2017
