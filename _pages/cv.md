@@ -16,7 +16,7 @@ redirect_from:
   * Research Master in Cognitive Neuroscience, Maastricht University 2020
   * PhD in Psycolinguistics/Cognitive Neuroscience, Max Planck Institute for Psycholinguistics, 2025 (expected)</font>
 
-### Work experience
+### <span style="color: red">  _Work experience_ </span>
 <font size="3">
   * May 2017 - February 2018: Student Research Assistant
      * Charité Universitätsmedizin Berlin
