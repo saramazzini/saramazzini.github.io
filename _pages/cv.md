@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: <span style="color: #307D7E"> "CV" </span>
+title: "CV"
 permalink: /CV/
 author_profile: true
 redirect_from:
