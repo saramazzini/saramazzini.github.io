@@ -28,7 +28,7 @@ redirect_from:
   + Tasks: combined EEG-tACS data acquisition, neuropsychological tests
   + Supervisor: Prof. Dr. Bernadette Jansma </font>
 
-## <span style="color: #307D7E"> *Skills* </span>
+## <span style="color: #307D7E"> _Skills_ </span>
 <font size="3">
 * Academic Skills
   + Communication and Presentation
@@ -45,7 +45,7 @@ redirect_from:
   + Spanish, proficient
   + Dutch, elementary   </font>
 
-##< span style="color: #307D7E"> *Supervision* </span>
+## <span style="color: #307D7E"> _Supervision_ </span>
 <font size="3">
 * Supervision of 1 intern (Linguistics)
 * Supervision of 2 Bachelor Students (Psychology & Medicine)
