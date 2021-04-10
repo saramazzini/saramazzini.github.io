@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: <span style="color: #307D7E"> "CV" </span>
 permalink: /CV/
 author_profile: true
 redirect_from:
@@ -16,7 +16,7 @@ redirect_from:
   * Research Master in Cognitive Neuroscience, Maastricht University 2020
   * PhD in Psycolinguistics/Cognitive Neuroscience, Max Planck Institute for Psycholinguistics, 2025 (expected)</font>
 
-### <span style="color: red">  _Work experience_ </span>
+### <span style="color: #307D7E"> _Work experience_ </span>
 <font size="3">
   * May 2017 - February 2018: Student Research Assistant
      * Charité Universitätsmedizin Berlin
@@ -28,7 +28,7 @@ redirect_from:
   + Tasks: combined EEG-tACS data acquisition, neuropsychological tests
   + Supervisor: Prof. Dr. Bernadette Jansma </font>
 
-## *Skills*
+## <span style="color: #307D7E"> *Skills* </span>
 <font size="3">
 * Academic Skills
   + Communication and Presentation
@@ -45,13 +45,13 @@ redirect_from:
   + Spanish, proficient
   + Dutch, elementary   </font>
 
-## *Supervision*
+##< span style="color: #307D7E"> *Supervision* </span>
 <font size="3">
 * Supervision of 1 intern (Linguistics)
 * Supervision of 2 Bachelor Students (Psychology & Medicine)
 * Supervision of 2 Master Students (Medicine & Neuroscience) </font>
 
-## *Courses* 
+## <span style="color: #307D7E"> *Courses* </span>
 <font size="3">
 * April 2021: Donders Advances MEEG/EEG Toolkit, Donders Institute for Brain, Cognition and Behavior
 * September 2020: Cognitive and Affective Neurophysiology Summer School: Acquisition, Processing and Analysis of EEG Signal - Laboratory of Neuropsychophysiology University of Porto </font>
