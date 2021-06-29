@@ -9,7 +9,6 @@ redirect_from: /resume
 {% include base_path %}
 
 ### <span style="color: #307D7E"> _Education_ </span>
-<font size="3">
 
 * BA in Psychology, University of Bologna, 2018
 
@@ -17,10 +16,9 @@ redirect_from: /resume
 
 * Research Master in Cognitive Neuroscience, Maastricht University 2020
 
-* PhD in Psycolinguistics/Cognitive Neuroscience, Max Planck Institute for Psycholinguistics, 2025 (expected) </font>
+* PhD in Psycolinguistics/Cognitive Neuroscience, Max Planck Institute for Psycholinguistics, 2025 (expected) 
 
 ### <span style="color: #307D7E"> _Work experience_ </span>
-<font size="3">
 
 * May 2017 - February 2018: Student Research Assistant
   + Charité Universitätsmedizin Berlin
@@ -30,10 +28,9 @@ redirect_from: /resume
 * April 2020 - January 2021: Research Assistant
   + Maastricht University 
   + Tasks: combined EEG-tACS data acquisition, neuropsychological tests
-  + Supervisor: Prof. Dr. Bernadette Jansma </font>
+  + Supervisor: Prof. Dr. Bernadette Jansma 
 
 ### <span style="color: #307D7E"> _Skills_ </span>
-<font size="3">
 
 * Academic Skills
   + Communication and Presentation
@@ -51,20 +48,19 @@ redirect_from: /resume
   + English, highly proficient
   + German, proficient
   + Spanish, proficient
-  + Dutch, elementary   </font>
+  + Dutch, elementary  
 
 ### <span style="color: #307D7E"> _Supervision_ </span>
-<font size="3">
+
 
 * Supervision of 1 intern (Linguistics)
 
 * Supervision of 2 Bachelor Students (Psychology & Medicine)
 
-* Supervision of 2 Master Students (Medicine & Neuroscience) </font>
+* Supervision of 2 Master Students (Medicine & Neuroscience) 
 
 ### <span style="color: #307D7E"> *Courses* </span>
-<font size="3">
 
 * April 2021: Donders Advances MEEG/EEG Toolkit, Donders Institute for Brain, Cognition and Behavior
 
-* September 2020: Cognitive and Affective Neurophysiology Summer School: Acquisition, Processing and Analysis of EEG Signal - Laboratory of Neuropsychophysiology University of Porto </font>
+* September 2020: Cognitive and Affective Neurophysiology Summer School: Acquisition, Processing and Analysis of EEG Signal - Laboratory of Neuropsychophysiology University of Porto
