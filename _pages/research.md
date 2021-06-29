@@ -9,7 +9,6 @@ redirect_from: /resume
 {% include base_path %}
 
 ## <span style="color: #307D7E"> **Interests**  </span> 
-  <font size="3">
 
 * Neural correlates of language production 
 * Electrophysiology 
@@ -21,7 +20,6 @@ redirect_from: /resume
 * Ecological research
 
 ## <span style="color: #307D7E">  **Projects** </span> 
- <font size="3">
    
 ### *Oscillatory correlates of syntactic encoding: a comparison between classic galactosemia patients and healthy subjects*
 
