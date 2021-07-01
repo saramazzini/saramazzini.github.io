@@ -51,13 +51,10 @@ redirect_from: /resume
 
 
 * Supervision of 1 intern (Linguistics)
-
 * Supervision of 2 Bachelor Students (Psychology & Medicine)
-
 * Supervision of 2 Master Students (Medicine & Neuroscience) 
 
 ### <span style="color: #307D7E"> *Courses* </span>
 
 * April 2021: Donders Advances MEEG/EEG Toolkit, Donders Institute for Brain, Cognition and Behavior
-
 * September 2020: Cognitive and Affective Neurophysiology Summer School: Acquisition, Processing and Analysis of EEG Signal - Laboratory of Neuropsychophysiology University of Porto
