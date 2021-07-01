@@ -1,7 +1,7 @@
 ---
 title: "Science Communication"
 layout: archive
-permalink: /Science Communication/
+permalink: /sciencecommunication/
 author_profile: yes
 redirect_from: /resume
 ---
