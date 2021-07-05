@@ -19,14 +19,14 @@ redirect_from: /resume
   + Combined EEG-tACS data acquisition, neuropsychological tests
 
 *  Student research assistant, Charité Universitätsmedizin Berlin, 2017-2018
-  + prof. dr. Danker-Hopfe
-  + Subjects recruitment and screening, data acquisition (Polysomnography and Pupillographic Sleepiness Test), evaluation of sleep questionnaires (PHQ, PSQI, MEQ, ASF, ESS)
+  prof. dr. Danker-Hopfe
+  Subjects recruitment and screening, data acquisition (Polysomnography and Pupillographic Sleepiness Test), evaluation of sleep questionnaires (PHQ, PSQI, MEQ, ASF, ESS)
 
 
 ### <span style="color: #307D7E"> _Education_ </span>
 
 * Research Master in Cognitive Neuroscience, Maastricht University, 2020
- + Oscillatory correlates of syntactic encoding: a comparison between classic galactosemia patients and healthy controls"
+  + Oscillatory correlates of syntactic encoding: a comparison between classic galactosemia patients and healthy controls"
 
 * Bachelor in Psychology, University of Bologna, 2018
   + "Investigation of a motivational influence on the Pupillographic Sleepiness Test" 
