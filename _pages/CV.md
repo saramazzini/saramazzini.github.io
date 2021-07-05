@@ -19,8 +19,8 @@ redirect_from: /resume
   + Combined EEG-tACS data acquisition, neuropsychological tests
 
 *  Student research assistant, Charité Universitätsmedizin Berlin, 2017-2018
-  prof. dr. Danker-Hopfe
-  Subjects recruitment and screening, data acquisition (Polysomnography and Pupillographic Sleepiness Test), evaluation of sleep questionnaires (PHQ, PSQI, MEQ, ASF, ESS)
+  + prof. dr. Danker-Hopfe
+  + Subjects recruitment and screening, data acquisition (Polysomnography and Pupillographic Sleepiness Test), evaluation of sleep questionnaires (PHQ, PSQI, MEQ, ASF, ESS)
 
 
 ### <span style="color: #307D7E"> _Education_ </span>
