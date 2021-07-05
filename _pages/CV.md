@@ -11,7 +11,6 @@ redirect_from: /resume
 ### <span style="color: #307D7E"> _Education_ </span>
 
 * BA in Psychology, University of Bologna, 2018
-* Erasmus+ Exchange Program, Freie Universität Berlin, 2016-2017
 * Research Master in Cognitive Neuroscience, Maastricht University 2020
 * PhD in Psycolinguistics/Cognitive Neuroscience, Max Planck Institute for Psycholinguistics, 2025 (expected) 
 
@@ -29,10 +28,6 @@ redirect_from: /resume
 
 ### <span style="color: #307D7E"> _Skills_ </span>
 
-* Academic Skills
-  + Communication and Presentation
-  + English Scientific Writing 
-  
 * Computer Skills
   + IBM SPSS Statistics
   + MATLAB
