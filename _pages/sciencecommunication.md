@@ -8,6 +8,6 @@ redirect_from: /resume
 
 {% include base_path %}
 
-### <span style="color: #307D7E"> **Work in progress** </span>
+### <span style="color: #307D7E"> *Work in progress* </span>
 
 
