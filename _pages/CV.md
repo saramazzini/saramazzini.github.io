@@ -8,23 +8,29 @@ redirect_from: /resume
 
 {% include base_path %}
 
-### <span style="color: #307D7E"> _Education_ </span>
-
-* BA in Psychology, University of Bologna, 2018
-* Research Master in Cognitive Neuroscience, Maastricht University 2020
-* PhD in Psycolinguistics/Cognitive Neuroscience, Max Planck Institute for Psycholinguistics, 2025 (expected) 
 
 ### <span style="color: #307D7E"> _Work experience_ </span>
 
-* May 2017 - February 2018: Student Research Assistant
-  + Charité Universitätsmedizin Berlin
-  + Tasks: subjects recruitment and screening, data acquisition (Polysomnography and Pupillographic Sleepiness Test), evaluation of sleep questionnaires (PHQ, PSQI, MEQ, ASF, ESS)
-  + Supervisors: Prof. Dr. Danker-Hopfe, Dr. Torsten Eggert 
+* PhD student in The Communicative Brain, Max Planck Institute for Psycholinguistics, 2021-present
+  + co-promotors: dr. Linda Drijvers, dr. Judith Holler, promotor: prof. dr. Peter Hagoort
   
-* April 2020 - January 2021: Research Assistant
-  + Maastricht University 
-  + Tasks: combined EEG-tACS data acquisition, neuropsychological tests
-  + Supervisor: Prof. Dr. Bernadette Jansma 
+* Research assistant, Maastricht Brain Imaging Center, 2020-2021
+  + prof. dr. Bernadette Jansma
+  + Combined EEG-tACS data acquisition, neuropsychological tests
+
+*  Student research assistant, Charité Universitätsmedizin Berlin, 2017-2018
+  + prof. dr. Danker-Hopfe
+  + Subjects recruitment and screening, data acquisition (Polysomnography and Pupillographic Sleepiness Test), evaluation of sleep questionnaires (PHQ, PSQI, MEQ, ASF, ESS)
+
+
+### <span style="color: #307D7E"> _Education_ </span>
+
+* Research Master in Cognitive Neuroscience, Maastricht University, 2020
+ + Oscillatory correlates of syntactic encoding: a comparison between classic galactosemia patients and healthy controls"
+
+* Bachelor in Psychology, University of Bologna, 2018
+  + "Investigation of a motivational influence on the Pupillographic Sleepiness Test" 
+  
 
 ### <span style="color: #307D7E"> _Skills_ </span>
 
@@ -43,7 +49,6 @@ redirect_from: /resume
   + Dutch, elementary  
 
 ### <span style="color: #307D7E"> _Supervision_ </span>
-
 
 * Supervision of 1 intern (Linguistics)
 * Supervision of 2 Bachelor Students (Psychology & Medicine)
