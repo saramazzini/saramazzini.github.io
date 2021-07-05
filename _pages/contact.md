@@ -8,6 +8,8 @@ redirect_from: /resume
 
 {% include base_path %}
 
-## You can contact me via e-mail: <span style="color: #307D7E"> **Sara.Mazzini@mpi.nl** </span>
+## You can contact me via e-mail: <span style="color: #307D7E"> **Sara.Mazzini@mpi.nl** </span>  
+
+![] (MPIfPL_logo_regular.jpg)
 
 
