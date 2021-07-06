@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am Sara Mazzini, welcome to my website!
+<span style="color: #307D7E"> Hello! I am Sara Mazzini, welcome to my website! </span>
+
 I am currently a PhD student in  [The Communicative Brain Group](https://www.mpi.nl/department/communicative-brain/21) at the Max Planck Institute for Psycholinguistics.  
 I have always been fascinated by languages and by how these are processed in the brain. Especially, how do our brains learn, produce and perceive language?  
 
