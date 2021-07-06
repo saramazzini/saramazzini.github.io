@@ -11,12 +11,15 @@ redirect_from: /resume
 #### <span style="color: #307D7E"> *Interests*  </span> 
 
 * Neural correlates of language production 
-* Electrophysiology and Hyperscanning 
-* Non-invasive brain stimulation
 * Multimodal communication 
-* Audio-visual integration  
+* Audio-visual integration
+* Electrophysiology
+* Non-invasive brain stimulation
+* Hyperscanning 
 * Inter-brain neural synchrony 
 * Time-frequency analysis
+  
+
 
 ### <span style="color: #307D7E">  *Projects* </span> 
    
