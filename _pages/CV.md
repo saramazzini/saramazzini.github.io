@@ -37,8 +37,9 @@ redirect_from: /resume
 * Computer Skills
   + IBM SPSS Statistics
   + MATLAB
-  + R
   + EEGLAB toolbox
+  + Fieldtrip toolbox
+  + R/RStudio
   + Presentation (Neurobehavioral systems)
   
 * Languages 
