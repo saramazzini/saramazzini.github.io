@@ -18,7 +18,7 @@ redirect_from: /resume
   + prof. dr. Bernadette Jansma
   + Combined EEG-tACS data acquisition, neuropsychological tests
 
-*  Student research assistant, Charité Universitätsmedizin Berlin, 2017-2018
+* Student research assistant, Charité Universitätsmedizin Berlin, 2017-2018
   + prof. dr. Danker-Hopfe
   + Subjects recruitment and screening, data acquisition (Polysomnography and Pupillographic Sleepiness Test), evaluation of sleep questionnaires (PHQ, PSQI, MEQ, ASF, ESS)
 
