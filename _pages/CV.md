@@ -41,6 +41,8 @@ redirect_from: /resume
   + Fieldtrip toolbox
   + R/RStudio
   + Presentation (Neurobehavioral systems)
+  + Praat 
+  + ELAN
   
 * Languages 
   + Italian, native 
