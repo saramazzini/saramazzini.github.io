@@ -8,7 +8,7 @@ redirect_from: /resume
 
 {% include base_path %}
 
-## <span style="color: #307D7E"> *Interests*  </span> 
+#### <span style="color: #307D7E"> *Interests*  </span> 
 
 * Neural correlates of language production 
 * Electrophysiology and Hyperscanning 
@@ -18,9 +18,9 @@ redirect_from: /resume
 * Inter-brain neural synchrony 
 * Time-frequency analysis
 
-## <span style="color: #307D7E">  *Projects* </span> 
+### <span style="color: #307D7E">  *Projects* </span> 
    
-### Current project: *The role of intra- and inter-brain neural synchrony in face-to-face communication*
+#### Current project: *The role of intra- and inter-brain neural synchrony in face-to-face communication*
 Synchronized neural oscillations are thought to be relevant for selecting and transferring information within and between cortical areas. In particular, neural synchrony seems to facilitate the integration of stimuli coming from different sensory modalities. In the recent years, neural synchrony has not only been investigated within a brain (intra-brain synchrony), but also between brains (inter-brain synchrony) while individuals engage in social interactions.
 During face-to-face communication, auditory and visual information (i.e. speech and gestures) need to be integrated into a meaningful message and this process is likely driven by neural synchrony between the cortical areas involved. Nonetheless, the role of neural synchrony during natural conversation is not clear yet. Namely, it is still unknown whether intra- and inter-brain synchrony are necessary and/or beneficial for effective face-to-face communication. Within this project, we will the hypothesis whether neural synchrony plays a mechanistic role in integrating different sources of information within and between conversational partners. More specifically, we aim to unravel whether  intra- and inter-brain neural synchrony is necessary, or even required for, successful communication. In a later stage, non-invasive multibrain stimulation (tACS) will be used to externally manipulate endogenous neural synchrony that may be relevant for successful communication, to measure its causal effect on face-to-face communication in both native and non-native language contexts.
 
