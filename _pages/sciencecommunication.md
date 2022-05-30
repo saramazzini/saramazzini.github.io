@@ -8,6 +8,7 @@ redirect_from: /resume
 
 {% include base_path %}
 
+
 I am a writer and an editor for the [MPI TalkLing](https://www.mpi-talkling.mpi.nl/?page_id=56&lang=en), the blog of the Max Planck Institute for Psycholinguistics. 
 The Neurobiology of Language Department also has its own blog: [Het Talige Brein](https://taalenhersenen.wordpress.com/). 
 
