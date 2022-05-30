@@ -19,6 +19,10 @@ redirect_from: /resume
 * Inter-brain neural synchrony 
 * Time-frequency analysis
   
+## <span style="color: #307D7E"> *Poster Presentations*  </span> 
+
+* Mazzini, S., Holler, J., Hagoort, P. & Drijvers, L. (2022) Intra- and inter-brain synchrony during (un)successful face-to-face communication. *Presented at the Neurobiology of Language: Key Issues and Ways Forward II, 16-17 March 2022*
+* Mazzini, S., Holler, J., Hagoort, P. & Drijvers, L. (2022) Intra- and inter-brain synchrony during (un)successful face-to-face communication. *Presented at the NVP Winter conference on Brain and Cognition, 28-30 April 2022*
 
 
 ## <span style="color: #307D7E">  *Projects* </span> 
