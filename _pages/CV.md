@@ -31,6 +31,8 @@ redirect_from: /resume
 * Bachelor in Psychology, University of Bologna, 2018
   + "Investigation of a motivational influence on the Pupillographic Sleepiness Test" 
   
+### <span style="color: #307D7E"> _Organizational experience_ </span>
+* [IMPRS Conference 2022](https://www.mpi.nl/imprs-conference)
 
 ### <span style="color: #307D7E"> _Skills_ </span>
 
@@ -49,7 +51,7 @@ redirect_from: /resume
   + English, highly proficient
   + German, proficient
   + Spanish, proficient
-  + Dutch, elementary  
+  + Dutch, intermediate 
 
 ### <span style="color: #307D7E"> _Supervision_ </span>
 
