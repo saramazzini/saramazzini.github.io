@@ -13,6 +13,6 @@ The Neurobiology of Language Department also has its own blog: [Het Talige Brein
 
 Below are my latest blog posts: 
 
-[Code-switching: one sentence, two languages](https://www.mpi.nl/department/communicative-brain/21](https://www.mpi-talkling.mpi.nl/?p=1657&lang=en)
+[Code-switching: one sentence, two language](https://www.mpi.nl/department/communicative-brain/21](https://www.mpi-talkling.mpi.nl/?p=1657&lang=en)
  
 [Losing words on the tip of the tongue](https://taalenhersenen.wordpress.com/2022/02/01/losing-words-on-the-tip-of-the-tongue-%ef%bf%bc/)
