@@ -17,3 +17,5 @@ Below are my latest blog posts:
 [Code-switching: one sentence, two languages](https://www.mpi-talkling.mpi.nl/?p=1657&lang=en)
  
 [Losing words on the tip of the tongue](https://taalenhersenen.wordpress.com/2022/02/01/losing-words-on-the-tip-of-the-tongue-%ef%bf%bc/)
+
+[Synsesthesia: a colourful alphabet!](https://www.mpi-talkling.mpi.nl/?p=1862&lang=en)
