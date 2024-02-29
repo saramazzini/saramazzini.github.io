@@ -18,7 +18,7 @@ redirect_from: /resume
 * Non-invasive brain stimulation
   
 ## <span style="color: #307D7E"> *Publications*  </span> 
-#*Peer reviewed Journals*
+*Peer reviewed journal articles*
 
 Mazzini, S., Yadnik, S., Timmers, I., Rubio-Gozalbo, E. & Jansma, B.M. (under review). Altered neural oscillations in classical galactosaemia during sentence production.
 
@@ -26,7 +26,7 @@ Mazzini, S., Holler, J., & Drijvers, L. (2023). Studying naturalistic human comm
 
 Drijvers, L., & Mazzini, S. (2023). Neural oscillations in audiovisual language and communication. In Oxford Research Encyclopedia of Neuroscience. Oxford:
 
-#*Preprints*
+*Preprints*
 
 The Communicative Brain, Seijdel, N., Mazzini, S., & Drijvers, L. (2023). Environmental noise affects audiovisual gain during speech comprehension in adverse listening conditions. OSF Preprints. doi:10.31219/osf.io/wbv9r.
 
