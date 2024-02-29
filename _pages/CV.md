@@ -8,8 +8,8 @@ redirect_from: /resume
 
 {% include base_path %}
 Updated May 2023
+<iframe src="https://drive.google.com/file/d/1gHqbCz5arKQS6-CQDzdQ-_tNPnKTKVUv/preview" width="960" height="720"></iframe>
 
-<iframe src="(https://drive.google.com/file/d/1gHqbCz5arKQS6-CQDzdQ-_tNPnKTKVUv)" width="960" height="720"></iframe>
 
 ### <span style="color: #307D7E"> _Work experience_ </span>
 
