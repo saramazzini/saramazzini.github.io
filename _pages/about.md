@@ -16,7 +16,7 @@ I’m a curious and motivated professional who thrives on solving problems and l
 
 I am currently looking to apply my experience in roles that bridge science, data, organization, and communication. These include scientific writing, data-focused roles such as data analyst or data manager, project coordination, or applied research in industry.
 
-<span style="color: #307D7E"> **If you would like to learn more about my experience and skills, or if you are aware of any relevant job opportunities, please feel free to contact me by email.** </span>  
+<span style="color: #307D7E"> **If you would like to learn more about my experience and skills, or if you are aware of any relevant job opportunities, please feel free to contact me by [email](mailto:saramazzini@icloud.com).** </span>  
 
 
 
