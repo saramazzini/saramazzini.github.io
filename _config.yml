@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sara Mazzini"
 title_separator          : "-"
 name                     : &name ""
-description              : &description "PhD student"
+description              : &description
 url                      : https://saramazzini.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "saramazzini/saramazzini.github.io"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Sara Mazzini"
   avatar           : "MPI_picture.jpg"
-  bio              : "PhD Student @ Max Planck Institute for Psycholinguistics"
+  bio              : "Scientific Writer • Data Analyst • Researcher • PhD in Cognitive Neuroscience"
   location         : "Nijmegen, The Netherlands"
   employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=Vuf1SgsAAAAJ&hl=en"
   email            : "saramazzini[at]icloud[dot]com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Sara-Mazzini-3"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : 
-  orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/sara-mazzini/"
+  orcid            : "https://orcid.org/0000-0002-8831-9678"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
