@@ -8,7 +8,7 @@ redirect_from: /resume
 
 {% include base_path %}
 
-## You can contact me via e-mail: <span style="color: #307D7E"> **saramazzini@icloud.com**
+## You can contact me via [email](mailto:saramazzini@icloud.com) or on [Linkedin](https://www.linkedin.com/in/sara-mazzini/).** </span>  
 
 
 
