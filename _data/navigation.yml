@@ -1,13 +1,17 @@
 # main links links
 main:
-  - title: "Research" 
-    url: /Research/
+  - title: "Skills & Experience" 
+    url: /skills/
 
   - title: "CV"
     url: /CV/    
     
   - title: "Science Communication"
     url: /sciencecommunication/
+
+  - title: "Photography"
+    url: /photography/
     
   - title: "Contact"
     url: /contact/
+    
