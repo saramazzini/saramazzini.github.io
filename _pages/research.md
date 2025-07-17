@@ -1,7 +1,7 @@
 ---
-title: "Research"
+title: "Skills & Experience"
 layout: archive
-permalink: /Research/
+permalink: /skills/
 author_profile: yes
 redirect_from: /resume
 ---
