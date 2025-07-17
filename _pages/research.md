@@ -8,10 +8,10 @@ redirect_from: /resume
 
 {% include base_path %}
 
-## <span style="color: #307D7E"> *Interests*  </span> 
+## <span style="color: #307D7E"> *Data*  </span> 
 
-* Neural oscillations and neural synchrony 
-* Multimodal communication
+* Designed and conducted over five hypothesis-based research projects (**A/B testing**), resulting in two scientific articles, one scientific review, and one methodological publication.
+* Created reproducible automatic **programming** scripts in **R** and **MATLAB** to process and analyze complex multidimensional datasets, including data wrangling, signal processing and statistics (cluster-based permutation tests, linear mixed models, bayesian t-test). 
 * Mutual understanding
 * Naturalistic paradigms
 * (Dual-)Electrophysiology
