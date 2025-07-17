@@ -7,6 +7,8 @@ redirect_from: /resume
 ---
 
 {% include base_path %}
+<div style="text-align: justify; text-justify: inter-word;">
+
 
 <span style="color: #307D7E"> **You can view my CVs below, and for more details, find me on [Linkedin](https://www.linkedin.com/in/sara-mazzini/).** </span>  
 
@@ -17,3 +19,4 @@ redirect_from: /resume
 
 
 <iframe src="https://drive.google.com/file/d/1z4uKihWRptDTBpCrl-7mMyYR4OwS3rJB/preview" width="960" height="720"></iframe>
+</div>
