@@ -8,7 +8,10 @@ main:
     
   - title: "Science Communication"
     url: /sciencecommunication/
-
+    
+  - title: "Research"
+    url: /research/
+    
   - title: "Contact"
     url: /contact/
     
