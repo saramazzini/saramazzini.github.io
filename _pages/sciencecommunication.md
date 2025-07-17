@@ -14,11 +14,13 @@ In addition, I wrote for [Het Talige Brein](https://taalenhersenen.wordpress.com
 
 <span style="color: #307D7E"> **Scroll below to see my blog posts!** </span>  
 
+[Losing words on the tip of the tongue](https://taalenhersenen.wordpress.com/2022/02/01/losing-words-on-the-tip-of-the-tongue-%ef%bf%bc/)
+
+[How our native language shapes our brain](https://taalenhersenen.wordpress.com/2023/08/21/how-our-native-language-shapes-our-brain/)
+
 [Code-switching: one sentence, two languages](https://www.mpi-talkling.mpi.nl/?p=1657&lang=en)
 <iframe src="https://www.mpi-talkling.mpi.nl/?p=1657&lang=en/preview" width="960" height="720"></iframe>
 
-[Losing words on the tip of the tongue](https://taalenhersenen.wordpress.com/2022/02/01/losing-words-on-the-tip-of-the-tongue-%ef%bf%bc/)
-<iframe src="https://taalenhersenen.wordpress.com/2022/02/01/losing-words-on-the-tip-of-the-tongue/preview" width="960" height="720"></iframe>
 
 [Synsesthesia: a colourful alphabet!](https://www.mpi-talkling.mpi.nl/?p=1862&lang=en)
 <iframe src="https://www.mpi-talkling.mpi.nl/?p=1862&lang=en/preview" width="960" height="720"></iframe>
@@ -26,7 +28,4 @@ In addition, I wrote for [Het Talige Brein](https://taalenhersenen.wordpress.com
 
 [Sleep talking: what happens in your brain?](https://www.mpi-talkling.mpi.nl/?p=2064&lang=en)
 <iframe src="https://www.mpi-talkling.mpi.nl/?p=2064&lang=en/preview" width="960" height="720"></iframe>
-
-[How our native language shapes our brain](https://taalenhersenen.wordpress.com/2023/08/21/how-our-native-language-shapes-our-brain/)
-<iframe src="https://taalenhersenen.wordpress.com/2023/08/21/how-our-native-language-shapes-our-brain/preview" width="960" height="720"></iframe>
 
