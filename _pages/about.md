@@ -12,7 +12,7 @@ redirect_from:
 
 I believe science should be at the foundation of our society. Driven by this mission, I recently completed my PhD research and I am now eager to leverage my experience and my passion for data to drive insights and to make science engaging and acessible for a broader audience.
 
-I’m a curious and motivated professional who thrives on solving problems and learning new skills. My experience includes scientific writing, programming, data analysis and visualization, and project coordination. This diverse skill set reflects both my wide-ranging interests and my commitment to continuous learning. I thrive in collaborative environments where knowledge is shared to create meaningful impact. Having lived and worked in three European countries and speaking five languages, I additionally bring strong intercultural communication skills and adaptability to every role. 
+I'm a curious and driven professional who thrives in solving problems and working with others to create meaningful impact. My experience includes scientific writing, programming, data analysis and visualization, and project coordination. This diverse skill set reflects both my wide-ranging interests and my commitment to continuous learning. Having lived and worked in three European countries and speaking five languages, I additionally bring strong intercultural communication skills and adaptability to every role. 
 
 I am currently looking to apply my experience in roles that bridge science, data, organization, and communication. These include scientific writing, data-focused roles such as data analyst or data manager, project coordination, or applied research in industry.
 
