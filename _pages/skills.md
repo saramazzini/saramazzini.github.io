@@ -14,6 +14,7 @@ redirect_from: /resume
 * Created reproducible automatic **programming** scripts in **R** and **MATLAB** to process and analyze complex multidimensional datasets, including data wrangling, signal processing and statistics (cluster-based permutation tests, linear mixed models, bayesian t-test). 
 * Created **compelling graphs** and images using R and MATLAB to visualize complex datasets and facilitate clearer understanding of results shared at international scientific conferences and in scientific journals.
 * Drew insights from **data analysis** to shape follow-up research directions and deepen the scientific understanding of brain and behavior.
+* Currently upskilling in SQL for data query and in PowerBI to create clear and compelling reports and dashboards.
 
 
 ## <span style="color: #307D7E"> **Communication**  </span> 
@@ -52,3 +53,4 @@ Creativity • Adaptability • Determination • Empathy • Collaboration • 
 
 
  
+
